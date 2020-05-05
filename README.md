@@ -1,3 +1,3 @@
-# Reapair-Ui
+# Repair-Ui
 
-A new fix plugin that use in game money to fix items
+A new repair plugin that use in game money to fix items
