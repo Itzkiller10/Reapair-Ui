@@ -2,6 +2,6 @@
 build-by-default: true
 branches:
 - master
-projects:
+projects: 
 Reapair UI
 ...
