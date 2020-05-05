@@ -1,0 +1,17 @@
+name: RepairSystemUI
+main: Itzkiller10\RepairUI\Main
+version: 1.0.0
+api: 3.6.0
+author:   Itzkiller10#1111
+commands:
+  repair:
+    description: Opens Repair System
+    aliases: [fix]
+    
+permissions:
+  repair.money:
+    description: repair your stuffs with money
+    default: true
+  repair.tokens:
+    description: repair your stuffs with tokens
+    default: op    
